@@ -1,0 +1,25 @@
+{
+  "name": "octobersync",
+  "version": "1.0.0",
+  "description": "A media manager sync app for OctoberCMS",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "repository": "git+ssh://git@github.com/SaifurRahmanMohsin/OctoberSync.git",
+  "keywords": [
+    "sync",
+    "cloud",
+    "files"
+  ],
+  "author": "Saifur Rahman Mohsin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaifurRahmanMohsin/OctoberSync/issues"
+  },
+  "homepage": "https://github.com/SaifurRahmanMohsin/OctoberSync#readme",
+  "dependencies": {
+    "electron": "^6.0.1",
+    "chokidar": "^3.0.2"
+  }
+}
